@@ -14,7 +14,7 @@ app.get("/", function(req,res){
 });
 
 
-app.listen(3000, "localhost", function(){
+app.listen(process.env.PORT, process.env.IP, function(){
 
-	console.log("Server started at http://localhost:3000");
+	console.log("Server started...");
 });
