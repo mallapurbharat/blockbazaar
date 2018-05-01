@@ -1,0 +1,29 @@
+[{
+    "id": 0,
+    "name": "iPhone 7",
+    "priceInWei": "250000000000000000",
+    "picture": "images/iphone/iphone7_front.jpg",
+    "age": 1.5,
+    "seller": {
+      "id": "0",
+      "address": "0x627306090abaB3A6e1400e9345bC60c78a8BEf57",
+      "reputation": "1",
+      "sold": "0"
+    },
+    "location": "HSR Layout, Bangalore"
+  },
+  {
+    "id": 1,
+    "name": "Samsung watch",
+    "priceInWei": "12500000000000000",
+    "picture": "images/samsungwatch/watch_front.jpg",
+    "age": 0.5,
+    "seller": {
+      "id": "1",
+      "address": "0xf17f52151EbEF6C7334FAD080c5704D77216b732",
+      "reputation": "1",
+      "sold": "0"
+    },
+    "location": "RR Nagar, Bangalore"
+  }
+]
